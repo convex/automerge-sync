@@ -90,7 +90,7 @@
     "react-dom": "18.3.1",
     "typescript": "5.9.3",
     "typescript-eslint": "8.67.0",
-    "vite": "6.4.4",
+    "vite": "6.4.5",
     "vitest": "4.1.11"
   },
   "types": "./dist/client/index.d.ts",
