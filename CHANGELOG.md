@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.3
+
+### Patch Changes
+
+- Return the typed component API from the test registration helper.
+  ([#21](https://github.com/convex/automerge-sync/issues/21))
+
 ## 0.2.2
 
 - Update ctx types for convex@1.41+
