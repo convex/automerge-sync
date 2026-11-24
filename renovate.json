@@ -18,6 +18,15 @@
     {
       "matchDepTypes": ["devDependencies"],
       "automerge": true
+    },
+    {
+      "matchManagers": ["npm"],
+      "matchPackageNames": ["@automerge/automerge"],
+      "matchUpdateTypes": ["major"],
+      "groupName": "Automerge major",
+      "dependencyDashboardApproval": true,
+      "draftPR": true,
+      "automerge": false
     }
   ]
 }
